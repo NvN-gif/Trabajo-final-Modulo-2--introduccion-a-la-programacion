@@ -28,7 +28,7 @@ Cómo Ejecutar el Proyecto
 Clona este repositorio en tu máquina local:
 
 bash
-git clone https://github.com/tu-usuario/soluciones-programacion-js.git
+git clone https://github.com/NvN-gif/Trabajo-final-Modulo-2--introduccion-a-la-programacion
 Navega al directorio del proyecto:
 
 bash
